@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(236, 187, 220);
+}
+.main{
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
+.main1{
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
+.main2{
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
+.main3{
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+}
+.main4{
+    height: 100px;
+    width: 200px;
+    border: 2px solid grey;
+    margin-left:105px;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+.content{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card_header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.cards p{
+    text-align: center;
+
+}
+.content{
+    margin-top: 40px;
+}
+.main a{
+    background-color: red;
+    padding: 10px;
+  text-decoration: none;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    
+}
+.main a:hover{
+    background-color: brown;
+}
+.main1 a:hover{
+    background-color: brown;
+}
+.main2 a:hover{
+    background-color: brown;
+}
+.main3 a:hover{
+    background-color: brown;
+}
+.main4 a:hover{
+    background-color: brown;
+}
+
+
+
+.cards{
+    position: relative;
+   
+}
+.card_header{
+    background-color: grey;
+}
+.main1 a{
+    background-color: rgb(49, 17, 230);
+    padding: 10px;
+  text-decoration: none;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    
+}
+.main2 a{
+    background-color: red;
+    padding: 10px;
+  text-decoration: none;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    
+}
+.main3 a{
+    background-color: rgb(56, 9, 223);
+    padding: 10px;
+  text-decoration: none;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    
+}
+.main4 a{
+    background-color: red;
+    padding: 10px;
+  text-decoration: none;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 10px;
+    
+}
+.container{
+    border: 2px solid black;
+    width: 1300px;
+    margin-left:20px;
+}
